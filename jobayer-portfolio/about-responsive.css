@@ -1,0 +1,2 @@
+@media(max-width:800px){.about-layout{grid-template-columns:1fr;gap:38px;padding-top:44px;padding-bottom:72px}.about-portrait{position:relative;top:auto;width:min(100%,480px);margin:0 auto}.about-portrait img{aspect-ratio:4/4.7}.about-story{padding:0}}
+@media(max-width:480px){.about-layout{gap:30px}.about-portrait{width:calc(100% - 16px)}.about-portrait figcaption{font-size:7px;flex-wrap:wrap}}
