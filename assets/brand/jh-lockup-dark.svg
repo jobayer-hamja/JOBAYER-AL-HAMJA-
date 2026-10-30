@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <svg x="240" y="8" width="160" height="160" viewBox="0 0 256 256">
+    <circle cx="128" cy="128" r="94" stroke="#C6AD83" stroke-width="1.8"/>
+    <circle cx="128" cy="128" r="88" stroke="#C6AD83" stroke-opacity=".32" stroke-width="1"/>
+    <path d="m128 26-5 5 5 5 5-5zM128 220l-5 5 5 5 5-5z" fill="#C6AD83"/>
+    <path d="M75 69h28M87 69v86c0 14-8 21-20 21h-7" stroke="#C6AD83" stroke-width="4.3" stroke-linecap="square" stroke-linejoin="round"/>
+    <path d="M87 127h87M174 69v113M151 69h47M151 182h47" stroke="#F4F0E8" stroke-width="5.2" stroke-linecap="square" stroke-linejoin="round"/>
+  </svg>
+  <path d="M198 208h73m98 0h73" stroke="#C6AD83" stroke-width=".8"/>
+  <path d="m314 203 6-6 6 6-6 6z" fill="#C6AD83"/>
+  <text x="320" y="213" text-anchor="middle" fill="#F4F0E8" font-family="Georgia,serif" font-size="10" letter-spacing="4">THE</text>
+  <text x="320" y="254" text-anchor="middle" fill="#F4F0E8" font-family="Georgia,serif" font-size="27" letter-spacing="4">HAMJA EXPERIENCE</text>
+  <path d="M244 272h152" stroke="#789A98" stroke-opacity=".7" stroke-width=".7"/>
+  <text x="320" y="297" text-anchor="middle" fill="#8793A3" font-family="Arial,sans-serif" font-size="9" letter-spacing="3">JOBAYER HAMJA</text>
+</svg>
