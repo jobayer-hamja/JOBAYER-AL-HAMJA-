@@ -1,0 +1,1 @@
+.dossier-reveal{opacity:0;transform:translateY(16px);transition:opacity .65s ease,transform .65s ease}.dossier-reveal.dossier-visible{opacity:1;transform:none}@media(prefers-reduced-motion:reduce){.dossier-reveal{opacity:1;transform:none;transition:none}}
